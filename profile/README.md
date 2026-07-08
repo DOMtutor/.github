@@ -17,4 +17,4 @@ For example, after an initial setup, synchronizing the list of participants from
 
 ## How to Use DOMtutor
 
-There is a dedicated [documentation repository](https://github.com/DOMtutor/documentation) that helps you get started and contains some samples.
+The main [pyjudge repository](https://github.com/DOMtutor/pyjudge) contains some documentation to get you started and contains some samples.
